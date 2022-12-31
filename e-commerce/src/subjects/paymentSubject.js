@@ -1,3 +1,4 @@
+// Publisher
 export default class PaymentSubject {
   #observers = new Set();
 
